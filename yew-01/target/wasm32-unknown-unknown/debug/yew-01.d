@@ -1,0 +1,1 @@
+/Users/Dani/Documents/Github/ALifeLivedFully-Domains/Dev.ALifeLivedFully.com/yew-01/target/wasm32-unknown-unknown/debug/yew-01.wasm: /Users/Dani/Documents/Github/ALifeLivedFully-Domains/Dev.ALifeLivedFully.com/yew-01/src/main.rs

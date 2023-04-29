@@ -1,0 +1,8 @@
+/Users/Dani/Documents/Github/ALifeLivedFully-Domains/Dev.ALifeLivedFully.com/yew-01/target/debug/deps/wasm_bindgen_macro_support-0b89a483d67b057e.rmeta: /Users/Dani/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-macro-support-0.2.84/src/lib.rs /Users/Dani/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-macro-support-0.2.84/src/parser.rs
+
+/Users/Dani/Documents/Github/ALifeLivedFully-Domains/Dev.ALifeLivedFully.com/yew-01/target/debug/deps/libwasm_bindgen_macro_support-0b89a483d67b057e.rlib: /Users/Dani/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-macro-support-0.2.84/src/lib.rs /Users/Dani/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-macro-support-0.2.84/src/parser.rs
+
+/Users/Dani/Documents/Github/ALifeLivedFully-Domains/Dev.ALifeLivedFully.com/yew-01/target/debug/deps/wasm_bindgen_macro_support-0b89a483d67b057e.d: /Users/Dani/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-macro-support-0.2.84/src/lib.rs /Users/Dani/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-macro-support-0.2.84/src/parser.rs
+
+/Users/Dani/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-macro-support-0.2.84/src/lib.rs:
+/Users/Dani/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-macro-support-0.2.84/src/parser.rs:
