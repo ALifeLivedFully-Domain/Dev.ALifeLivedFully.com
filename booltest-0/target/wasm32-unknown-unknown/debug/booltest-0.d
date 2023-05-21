@@ -1,0 +1,1 @@
+/Users/Dani/Documents/Github/ALifeLivedFully-Domains/Dev.ALifeLivedFully.com/booltest-0/target/wasm32-unknown-unknown/debug/booltest-0.wasm: /Users/Dani/Documents/Github/ALifeLivedFully-Domains/Dev.ALifeLivedFully.com/booltest-0/src/main.rs

@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+
+}
+
+div {
+    margin-top: 35px;
+    text-align: center;
+    color: white;
+    font-family: Cubano;
+}
+
+p {
+    font-size: 15em;
+}
+
+
+.true {
+    background-color: green;
+}
+
+.false {
+    background-color: red;
+}
+        
+
+button {
+    width: 50%;
+    height: 500px;
+    color: white;
+    text-align: center;
+}
